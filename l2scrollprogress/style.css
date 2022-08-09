@@ -24,7 +24,7 @@ body{
 }
 
 .progress-bar{
-    width: 50%;
+    width: 0%;
     height: 5px;
     background-color: forestgreen;
 
@@ -35,3 +35,47 @@ body{
     padding: 50px 0;
     margin: 100px auto;
 }
+
+
+/*@media print {*/
+/*    !**/
+/*    .noprint{*/
+/*        display: none;*/
+/*    }*/
+/*    *!*/
+
+
+
+/*    *{*/
+/*        visibility: hidden;*/
+/*    }*/
+
+/*    .printarea *{*/
+/*        visibility: visible;*/
+/*    }*/
+
+/*    .header{*/
+/*        position: static;*/
+/*    }*/
+
+/*    .pagebreak{*/
+/*        page-break-after: always;*/
+/*        !*page-break-before: always;*!*/
+/*    }*/
+
+
+/*}*/
+
+/*@page{*/
+/*    !*size: landscape;*!*/
+/*    !*size: portrait;*!*/
+
+/*    !*size: auto;*!*/
+
+/*    !*size: A4 landscape;*!*/
+/*    size: legal;*/
+
+/*    size: 4in 6in;*/
+
+/*    margin: 0;*/
+/*}*/

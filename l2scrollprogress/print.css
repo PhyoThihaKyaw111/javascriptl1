@@ -1,0 +1,21 @@
+/*body{*/
+/*    background-color: blue;*/
+/*}*/
+
+print-btn{
+    display: none;
+}
+
+.pagebreak{
+    page-break-after: always;
+}
+
+.header{
+    position: static;
+}
+
+@page{
+    margin: 0;
+
+    size: legal;
+}
