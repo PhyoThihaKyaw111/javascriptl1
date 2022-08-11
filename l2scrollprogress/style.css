@@ -1,5 +1,5 @@
 body{
-    background-color: #f4f4f4;
+    /*background-color: silver;*/
     font-size: 20px;
     line-height: 50px;
 
@@ -9,7 +9,7 @@ body{
 
 .header{
     width: 100%;
-    background-color: #f1f1f1;
+    background-color: lightskyblue;
     text-align: center;
 
     position: fixed;
@@ -32,6 +32,8 @@ body{
 
 .content{
     width: 80%;
+    /*background-color: lightskyblue;*/
+    background: linear-gradient(skyblue,lightskyblue);
     padding: 50px 0;
     margin: 100px auto;
 }

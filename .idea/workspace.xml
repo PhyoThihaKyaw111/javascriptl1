@@ -20,11 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a7252304-d17d-4a73-89f8-137ab09b7408" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/l2scrollprogress/print.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/l3progressbar/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/l3progressbar/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/l3progressbar/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/l2scrollprogress/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/l2scrollprogress/app.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/l2scrollprogress/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/l2scrollprogress/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/l2scrollprogress/print.css" beforeDir="false" afterPath="$PROJECT_DIR$/l2scrollprogress/print.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/l2scrollprogress/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/l2scrollprogress/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,8 +37,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
-        <option value="JavaScript File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -71,6 +72,7 @@
       <updated>1659921180020</updated>
       <workItem from="1659921182196" duration="6229000" />
       <workItem from="1660004588071" duration="7626000" />
+      <workItem from="1660092300710" duration="5390000" />
     </task>
     <servers />
   </component>
@@ -87,11 +89,24 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="274" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1660011600209">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
     <state x="274" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.720@0.0.1366.720" timestamp="1660011600209" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/l3progressbar/app.js</url>
+          <line>9</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
